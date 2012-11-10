@@ -1,0 +1,3 @@
+libmalloc.so
+test
+*.o
